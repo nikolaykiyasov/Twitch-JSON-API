@@ -1,0 +1,29 @@
+
+.container{
+  margin: 0px auto;
+  padding: 0px;
+  background: #111;
+  max-width: 700px;
+  block: inline;
+}
+.logo{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 3px solid;
+  border-color: white;
+  margin-top:10px;
+}
+.linkChannel{
+  font-size: 20px;
+  
+}
+.output{
+  border: 3px  solid;
+  margin: auto;
+  padding-top: 10px;
+}
+#title{
+  color: white;
+  font-size:20px;
+}
